@@ -73,6 +73,7 @@ HIST_STAMPS="mm/dd/yyyy"
 plugins=(
 git
 copyfile
+history
 web-search
 )
 
